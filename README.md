@@ -34,6 +34,7 @@ The following table outlines the available queries and provides a brief explanat
 | query | explanation |
 | ------ | ------ |
 |find_destinations(). | This query is used to find famous places in Greece that are popular for travel and tourism.|
+|trip_advice(From, Days, MinMoney, MaxMoney). | This query is used to find available trips from a specified location, for a specified number of days,and within a specified budget range |
 | find_social_service(Place). | This query is used to find various social services available in the specified Place. Social services may include Health Center,Port Authority,Tourist Police,Post Office etc.|
 | find_accomodations(Place). | This query is used to find various accommodation options available in the specified Place. |
 | transportation_details(From,To). | This query is used to get detailed information about the transportation available from one place (From) to another place (To). |
