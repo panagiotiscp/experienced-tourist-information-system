@@ -1,6 +1,6 @@
 # Experienced Tourist Information System
 
-This project was created for the University of Pireus as part of a Prolog course. It provides information to tourists about popular destinations and activities in Greece.
+This project was created for the University of Piraeus as part of a Prolog course. It provides information to tourists about popular destinations and activities in Greece.
 
 ## Getting Started
 
